@@ -4,4 +4,4 @@ pandas
 pydeck
 streamlit
 matplotlib
-sklearn
+scikit-learn
